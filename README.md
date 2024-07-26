@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/Rashid-Aly/Dev.readme-profile/blob/main/Github%20Banner.png)
 
-# Hi there, I'm Rashid Aly 👋
+# Hi there, I'm Rashid Ali 👋
 
 ## About Me
 I'm a passionate frontend developer and UI/UX designer dedicated to crafting clean and efficient code along with engaging and intuitive designs. With a deep understanding of modern web technologies, design principles, and best practices, I strive to deliver outstanding user experiences.
