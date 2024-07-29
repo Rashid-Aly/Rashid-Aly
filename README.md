@@ -47,7 +47,7 @@ Below are some of the projects I've worked on. Feel free to check them out:
 ## Connect with Me
 - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-linkedin)
 - **Website:** [Your Website](https://yourwebsite.com)
-- **Email:** `your-email@example.com`
+- **Email:** `rashidaliuiux@gmail.com`
 
 
 
