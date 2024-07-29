@@ -24,7 +24,7 @@ I'm a passionate frontend developer and UI/UX designer dedicated to crafting cle
 Below are some of the projects I've worked on. Feel free to check them out:
 - [Portfolio](https://github.com/Rashid-Aly/next-portfolio) - Explore my professional journey through this custom-built portfolio website. Created with Next.js and Tailwind CSS, this site features a clean, modern design that showcases my projects, skills, and design philosophy. It serves as a living document of my growth as a frontend developer and UI/UX designer.
 - [CandyCrush](https://github.com/Rashid-Aly/Candy-crush) - A vibrant and engaging match-three puzzle game, this project is a tribute to the classic Candy Crush. Developed using modern web technologies, it showcases smooth animations, responsive gameplay, and challenging levels designed to test strategic thinking and speed.
-- [Animatedportfolio](GitHub_Project_Link) - A brief description of the project.
+- [Animatedportfolio](https://github.com/Rashid-Aly/Nexjs_portfolio_animated) - A brief description of the project.
 
 ## 
 
