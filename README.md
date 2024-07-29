@@ -45,7 +45,7 @@ Below are some of the projects I've worked on. Feel free to check them out:
 </div>
 
 ## Connect with Me
-- **LinkedIn:** [LinkedIn](in/rashid-ali-918823226)
+- **LinkedIn:** [(in/rashid-ali-918823226)
 - **Website:** [PersonalWebsite](https://yourwebsite.com)
 - **Email:** `rashidaliuiux@gmail.com`
 
