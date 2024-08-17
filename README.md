@@ -14,11 +14,11 @@ I'm a passionate frontend developer and UI/UX designer dedicated to crafting cle
 
 ## My GitHub Stats
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashid-Aly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
-       style="flex: 1; height: 150px;  object-fit: contain;" width: 48%;" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rashid-ALy&locale=en&hide_title=false&layout=compact&card_width=495&langs_count=5&theme=dracula&hide_border=false"
-       style="flex: 1; height: 150px; width: 48%;" object-fit: contain;" alt="languages graph" />
+<div style="display: flex; justify-content: space-between; align-items: start; width: 100%; ">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rashid-Aly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
+       style="flex: 1; height: 150px; width: 40%; object-fit: contain;" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rashid-ALy&locale=en&hide_title=false&layout=compact&card_width=495&langs_count=5&theme=dracula&hide_border=false" 
+       style="flex: 1; height: 150px; width:58%; object-fit: contain;" alt="languages graph" />
 </div>
 
 ## Projects
