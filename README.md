@@ -14,14 +14,14 @@ I'm a passionate frontend developer and UI/UX designer dedicated to crafting cle
 
 ## My GitHub Stats
 
-<div style="display: flex; justify-content: space-between; align-items: start; width: 100%; ">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashid-Aly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
-       style="flex: 1; height: 150px; max-width: 48%; object-fit: contain;" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rashid-Aly&locale=en&hide_title=false&layout=compact&card_width=495&langs_count=5&theme=dracula&hide_border=false" 
-       style="flex: 1; height: 150px; max-width: 48%; object-fit: contain;" alt="languages graph" />
-</div>
-
-
+<p>
+  <a href="https://github.com/Rashid-Aly" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Rashid-Aly&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+  </a>
+  <a href="https://github.com/Rashid-Aly" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rashid-Aly&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BBShark's GitHub Stats" height="180px"/>
+  </a>
+ </p>
 
 ## Projects
 
