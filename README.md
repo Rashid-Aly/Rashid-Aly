@@ -51,10 +51,6 @@ Below are some of the projects I've worked on. Feel free to check them out:
 - **Website:** [PersonalWebsite](https://yourwebsite.com)
 - **Email:** `rashidaliuiux@gmail.com`
 
-
-
-
-
 ###
 
 <div align="left">
@@ -67,6 +63,13 @@ Below are some of the projects I've worked on. Feel free to check them out:
 </div>
 
 ###
+## Daily Dev Card.
+###
+<a href="https://app.daily.dev/rashidaliuiux"><img src="https://api.daily.dev/devcards/v2/1qY2ljaXSm5rsIuGuoVwJ.png?type=wide&r=7e0" width="652" alt="Rashid Ali's Dev Card"/></a>
+
+
+
+
 
 
 
